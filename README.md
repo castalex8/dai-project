@@ -2,4 +2,4 @@
 Behavioral and performance analysis of distributed aggregation algorithms on various types of networks: Lattice, Random, Small World and Scale-free.
 Language and tool used: NetLogo.
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](dai_project/Immagine.png)
