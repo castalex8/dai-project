@@ -1,2 +1,5 @@
-# dai_project
-Distribution Artificial Intelligence Course Project
+# Distributed Aggregation on Various Network Structures
+Behavioral and performance analysis of distributed aggregation algorithms on various types of networks: Lattice, Random, Small World and Scale-free.
+Language and tool used: NetLogo.
+
+![image](files/Users/jzhang/Desktop/Isolated.png)
